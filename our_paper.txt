@@ -1,2 +1,3 @@
 This is the first sentence of the new paper.
 Crucially, this is the second sentence.
+This is the last sentence of the paper. 
